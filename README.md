@@ -1,3 +1,1 @@
-# bit-manipulation-project
-# bit-manipulation
-# bit-manipulation
+# bit-manipulation-in-C-

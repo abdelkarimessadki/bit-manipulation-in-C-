@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ASSAL/Desktop/manip",
-      "program": "c:/Users/ASSAL/Desktop/manip/build/Debug/outDebug",
+      "cwd": "c:/Users/ASSAL/Downloads/manip",
+      "program": "c:/Users/ASSAL/Downloads/manip/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

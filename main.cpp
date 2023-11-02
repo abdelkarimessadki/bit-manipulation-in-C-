@@ -2,7 +2,6 @@
 #include <iostream>
 #include "bit.h"
 
-
 int main() {
     // a=5(00000101), b=9(00001001)
     int a=5, b=9;
@@ -60,9 +59,7 @@ int main() {
     std::cout<<std::boolalpha<<"16 is power of 16: "<<IsPwrOf16(16)<<std::endl;
     printf("  -----------  \n");
     std::cout<<"number of set in 16: "<<CntSetOfNum(25)<<std::endl;
-
     std::cout<<"toogle the 3th bit of 16: "<<ToogleKthBit(16, 3)<<std::endl;
-
 
     return 0;
 }
